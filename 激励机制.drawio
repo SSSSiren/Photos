@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T14:29:16.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.11" etag="oRvzIxJDi_9_4_qz7TWk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T14:37:36.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="LaXsCHEm2-5_jFx6fQyL" version="22.1.11" type="github">
   <diagram name="第 1 页" id="Z2_JS7W9I-YXvU5jjvxR">
-    <mxGraphModel>
+    <mxGraphModel dx="1829" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="no3QSdIYlXCHHKZ1xGVf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=27;" edge="1" parent="1" source="no3QSdIYlXCHHKZ1xGVf-1" target="no3QSdIYlXCHHKZ1xGVf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="no3QSdIYlXCHHKZ1xGVf-1" value="用户提交信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="265" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="no3QSdIYlXCHHKZ1xGVf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=27;" edge="1" parent="1" source="no3QSdIYlXCHHKZ1xGVf-3" target="no3QSdIYlXCHHKZ1xGVf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="no3QSdIYlXCHHKZ1xGVf-3" value="数据引擎整合分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="no3QSdIYlXCHHKZ1xGVf-4" value="贡献率计算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="no3QSdIYlXCHHKZ1xGVf-5" value="激励分配" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="no3QSdIYlXCHHKZ1xGVf-6" value="管理员确定结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="200" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
